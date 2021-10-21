@@ -1,2 +1,27 @@
-# ProjetosDigitalInnovationOne
-Todos Projetos da Digital Innovation One
+# Página em constante atualização
+
+:spiral_calendar: Atualizado em 21 de Outubro de 2021 :heart:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Aqui estão todos os Projetos Node criados nas quais participei em relação aos desafios propostos pela DIO
+A situação de cada um deles segue esta legenda: 
+- :white_circle: Em aberto
+- :yellow_circle: Em andamento
+- :purple_circle: Em estudo
+- :red_circle: Em busca de solução
+- :green_circle: Concluído
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## :label: Digital Innovation One - Introdução ao Node.js com Javascript (finalizado em )
+
+
+
+|Sit|Tipo|Nome|Detalhes|Ferramentas|
+|---|----|----|--------|-----------|
+|:white_circle:|Projeto|"" |<a href="https://github.com/***">Clique-me</a>|""|
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
