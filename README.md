@@ -18,7 +18,7 @@ A situação de cada um deles segue esta legenda:
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:green_circle:|Projeto nodeJs-liveCoding-DIO|"app para gerenciar uso de memória RAM" |<a href="https://github.com/anacarolliny/ProjetosDigitalInnovationOne/tree/main/Nodejs/Projeto1">Clique-me</a>|"Javascript/Node/VSCode"|
+|:green_circle:|Projeto Introdução ao Node.js com JavaScript|"app para gerenciar uso de memória RAM" |<a href="https://github.com/anacarolliny/ProjetosDigitalInnovationOne/tree/main/Nodejs/Projeto1">Clique-me</a>|"Javascript/Node/VSCode"|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
