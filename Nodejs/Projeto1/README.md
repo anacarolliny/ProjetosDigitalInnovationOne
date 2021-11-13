@@ -34,7 +34,9 @@ http://localhost:3000 & http://localhost:3000/stats
 
 # Exemplos de telas
 
-![ProjetosDio](C:\Users\T-Gamer\Pictures\ProjetosDio.gif)
+![ProjetosDio](https://i.imgur.com/nXIzSG0.png)
+![ProjetosDio](https://i.imgur.com/wj5ZJSd.gif)
+
 
 * Exemplo:
 
@@ -47,5 +49,5 @@ http://localhost:3000 & http://localhost:3000/stats
 | Usage    | porcentagem de uso  |
 | Tipo     | Versão do OS        |
 
-![Captura de tela 2021-11-12 235810](C:\Users\T-Gamer\Pictures\Captura de tela 2021-11-12 235810.png)
+![Captura de tela 2021-11-12 235810](https://i.imgur.com/mEIE7l4.png)
 
