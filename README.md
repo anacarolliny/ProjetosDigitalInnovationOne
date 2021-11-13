@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 21 de Outubro de 2021 :heart:
+:spiral_calendar: Atualizado em 13 de Outubro de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Aqui estão todos os Projetos Node criados nas quais participei em relação aos desafios propostos pela DIO
