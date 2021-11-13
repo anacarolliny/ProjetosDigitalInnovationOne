@@ -4,7 +4,7 @@
 
 
 
-# Projeto Digital Innovation One nodeJs-liveCoding-DIO 
+# Projeto Digital Innovation One Introdução ao Node.js com JavaScript
 ## Criando app para gerenciar uso de memória RAM 💻
 
 - [x]  Importação do módulo 'os'
