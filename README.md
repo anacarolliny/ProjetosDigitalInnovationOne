@@ -1,6 +1,6 @@
 # Página em constante atualização
 
-:spiral_calendar: Atualizado em 21 de Outubro de 2021 :heart:
+:spiral_calendar: Atualizado em 13 de Outubro de 2021 :heart:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Aqui estão todos os Projetos Node criados nas quais participei em relação aos desafios propostos pela DIO
@@ -18,7 +18,7 @@ A situação de cada um deles segue esta legenda:
 
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
-|:white_circle:|Projeto|"" |<a href="https://github.com/***">Clique-me</a>|""|
+|:green_circle:|Projeto Introdução ao Node.js com JavaScript|"app para gerenciar uso de memória RAM" |<a href="https://github.com/anacarolliny/ProjetosDigitalInnovationOne/tree/main/Nodejs/Projeto1">Clique-me</a>|"Javascript/Node/VSCode"|
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
