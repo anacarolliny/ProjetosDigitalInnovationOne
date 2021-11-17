@@ -12,7 +12,7 @@ A situação de cada um deles segue esta legenda:
 - :green_circle: Concluído
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## :label: Digital Innovation One - Projetos do Labs em NodeJs (finalizado em )
+## :label: Digital Innovation One -   <a href="https://web.dio.me/labs">Projetos do Labs em NodeJs</a> (finalizado em )
 
 
 
