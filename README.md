@@ -19,8 +19,7 @@ A situação de cada um deles segue esta legenda:
 |Sit|Tipo|Nome|Detalhes|Ferramentas|
 |---|----|----|--------|-----------|
 |:green_circle:|Projeto Introdução ao Node.js com JavaScript|"app para gerenciar uso de memória RAM" |<a href="https://github.com/anacarolliny/ProjetosDigitalInnovationOne/tree/main/Nodejs/Projeto1">Clique-me</a>|"Javascript/Node/VSCode"|
-
-
+|:yellow_circle:|Projeto Microserviço de autenticação com Nodejs |"Explorando o Estilo Arquitetural REST com Node "  |<a href="https://github.com/anacarolliny/ProjetosDigitalInnovationOne/tree/main/Nodejs/Projeto2">Clique-me</a>|"Typescript/Node/VSCode"|
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
