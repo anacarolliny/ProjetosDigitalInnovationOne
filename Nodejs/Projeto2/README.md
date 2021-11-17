@@ -11,8 +11,7 @@ Este projeto foi proposto pela Digital Innovation One - Link do código original
 ## Explorando o Estilo Arquitetural REST com Node 💻
 
 - [x]  Criando uma API REST na Prática com Node.js + Express
-  - [x]  Explorando métodos do módulo com typescript
-  - [x]  
+  - [x]  Explorando métodos do módulo com typescript  - [x]  
   - [x]  Instalando bibliotecas e dependências 
   - [x]  configurando para a conversão do ts para js seja de forma automática, através do npm install--save-dev-node-dev
   - [x]  explorando o método nativo setInterval()
@@ -20,7 +19,7 @@ Este projeto foi proposto pela Digital Innovation One - Link do código original
   
 - [x] Utilizando padrão do StatusCode para transformar o código mais legível, através do uso da biblioteca :
 
-- [ ] \- -save http-status-codes  >> importando o import {StatusCodes} from "http-status-codes"
+- --save http-status-codes  >> importando o import {StatusCodes} from "http-status-codes"
 
   e usando *res*.status(*StatusCodes*.OK).send(users)
 
@@ -31,7 +30,7 @@ Este projeto foi proposto pela Digital Innovation One - Link do código original
 - [x]  Criar Rotas para End-Points
   - [x] Utilizando typescript para garantir que que os dados sejam padronizados, exemplo na rota por id de usuários : 
   
-  - [ ] usersRoute.get("/users/:uuid", (*req*: *Request*<{ uuid : *string*}>, *res*: *Response*, *next*: *NextFunction*) => {
+  - usersRoute.get("/users/:uuid", (*req*: *Request*<{ uuid : *string*}>, *res*: *Response*, *next*: *NextFunction*) => {
   
     const uuid = *req*.params.uuid
 
@@ -74,6 +73,6 @@ http://localhost:3000/users & http://localhost:3000/status
 
 # Exemplos de telas
 
-![ProjetosDio](https://imgur.com/a/i8GnnBo)
+![ProjetosDio](https://www.dropbox.com/s/d3g2nrgic9tl7l1/ProjetosDio.gif?dl=0)
 
 * 
