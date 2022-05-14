@@ -3,6 +3,7 @@ import errorHandler from "./niddlewares/error-handler.middleware"
 import productRoute from "./routes/product.route"
 import StatusRoute from "./routes/status.route"
 import usersRoute from "./routes/users.route"
+import vehiclesRoute from "./routes/vehicles.route"
 const app = express()
 
 
@@ -15,6 +16,7 @@ app.use(express.urlencoded({ extended: true }))
 app.use(usersRoute)
 app.use(productRoute)
 app.use(StatusRoute)
+app.use(vehiclesRoute)
 
 //Configuração dos Handlers de Erro
 app.use(errorHandler)

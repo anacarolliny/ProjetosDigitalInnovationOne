@@ -16,3 +16,11 @@ CREATE TABLE IF NOT EXISTS application_product (
   price DECIMAL(10,2) NOT NULL,
   PRIMARY KEY (uuid)
 )
+
+CREATE TABLE IF NOT EXISTS application_vehicles(
+  uuid uuid DEFAULT uuid_generate_v4(),
+  model VARCHAR(255) NOT NULL,
+  age VARCHAR(255) NOT NULL,
+  description VARCHAR(255) NOT NULL,
+  PRIMARY KEY (uuid)
+)
